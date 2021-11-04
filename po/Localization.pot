@@ -8,7 +8,7 @@ msgstr ""
 #. Site description
 #: resources/public/pebble_templates/index.html:8:42
 msgid "Place pixels with people to create art"
-msgstr "Ставь пиксели вместе с другими людьми для того чтобы создавать искусство"
+msgstr "Ставьте пиксели вместе с другими игроками, создавая искусство"
 
 #: resources/public/pebble_templates/index.html:56:27
 msgid "Lost connection to server, reconnecting..."
@@ -1151,49 +1151,49 @@ msgstr "Не более <b>одной</b> учетной записи на по�
 
 #: resources/public/pebble_templates/info.html:31:11
 msgid "No auto-placement tools of any kind, you must place the pixels manually."
-msgstr ""
+msgstr "Никаких инструментов автоматического размещения пикселей, вы должны размещать пиксели вручную."
 
 #: resources/public/pebble_templates/info.html:32:11
 msgid "Do not abuse site functionality, such as reports or lookups. (e.g. automated reporting/lookups, etc.)"
-msgstr ""
+msgstr "Не злоупотребляйте функциями сайта, такими как жалобы или просмотр пикселей. (например, автоматическое отправление жалоб и т. д.)"
 
 #: resources/public/pebble_templates/info.html:33:11
 msgid "Any automated aggregation of data from user lookups is not allowed, and will result in a ban."
-msgstr ""
+msgstr "Любое автоматическое собирание данных с помощью просмотра пикселей пользователей запрещено и приведет к бану."
 
 #: resources/public/pebble_templates/info.html:34:11
 #: resources/public/pebble_templates/info.html:62:11
 msgid "Staff have final say in any rule disputes"
-msgstr ""
+msgstr "Администрация сайта имеет последнее слово в любых спорах о правилах"
 
 #: resources/public/pebble_templates/info.html:35:12
 #: resources/public/pebble_templates/info.html:64:13
 msgid "If you feel a moderator has acted inappropriately, please report it to an administrator."
-msgstr ""
+msgstr "Если вы считаете, что модератор действовал ненадлежащим образом, сообщите об этом администратору."
 
 #: resources/public/pebble_templates/info.html:38:9
 msgid "If you believe you have been falsely banned you may contact a moderator or administrator."
-msgstr ""
+msgstr "Если вы считаете, что вас забанили ложно, вы можете связаться с модератором или администратором."
 
 #: resources/public/pebble_templates/info.html:43:27
 msgid "Chat Rules"
-msgstr ""
+msgstr "Правила чата"
 
 #: resources/public/pebble_templates/info.html:47:11
 msgid "Keep chat civil. No harassment or homophobic/transphobic/disablist language."
-msgstr ""
+msgstr "Будьте вежливы. Никаких оскорблений или гомофобных / трансфобных / дисаблистких выражений."
 
 #: resources/public/pebble_templates/info.html:48:11
 msgid "No hate speech. This includes emoji/symbols/ASCII art."
-msgstr ""
+msgstr "Никаких ненавистнических высказываний. Сюда входят эмодзи / символы / искусство ASCII."
 
 #: resources/public/pebble_templates/info.html:50:13
 msgid "Normal swearing/etc is allowed"
-msgstr ""
+msgstr "Обычные ругательства допускаются и т. Д."
 
 #: resources/public/pebble_templates/info.html:53:11
 msgid "No spamming"
-msgstr ""
+msgstr "Не спамить"
 
 #: resources/public/pebble_templates/info.html:55:13
 msgid "This includes excessive ASCII art/emojis/symbols/whitespace"
